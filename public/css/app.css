@@ -52204,3 +52204,7 @@ a.text-muted:hover {
   color: #fff;
 }
 
+.router-link-exact-active {
+  background-color: #429bb8 !important;
+}
+
